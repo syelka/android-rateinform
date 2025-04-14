@@ -1,1 +1,1 @@
-# android-rateinform
+# Árfolyam informáló mobil alkalmazás
