@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735948676841",
+    "project_id": "rateinform-b1ccd",
+    "storage_bucket": "rateinform-b1ccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735948676841:android:f922935041ea8fc1711a78",
+        "android_client_info": {
+          "package_name": "com.syelka.rateinform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735948676841-e59hvveclef25ctc8ggc3n1framgaql2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbe7lxvnO8-pfxXXF0MIj4XQEBLxIdCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735948676841-e59hvveclef25ctc8ggc3n1framgaql2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
