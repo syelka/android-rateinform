@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "735948676841",
-    "project_id": "rateinform-b1ccd",
-    "storage_bucket": "rateinform-b1ccd.firebasestorage.app"
+    "project_number": "603984831316",
+    "project_id": "arfolyamfigyeloapp",
+    "storage_bucket": "arfolyamfigyeloapp.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:735948676841:android:f922935041ea8fc1711a78",
+        "mobilesdk_app_id": "1:603984831316:android:a4a4e3a59eb7687601dec1",
         "android_client_info": {
           "package_name": "com.syelka.rateinform"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "735948676841-e59hvveclef25ctc8ggc3n1framgaql2.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJbe7lxvnO8-pfxXXF0MIj4XQEBLxIdCs"
+          "current_key": "AIzaSyAJHgf2FKq7XekCc7cvZmbp3HQNv3nLsWY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "735948676841-e59hvveclef25ctc8ggc3n1framgaql2.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
